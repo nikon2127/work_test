@@ -1,2 +1,6 @@
 print('Hello')
-print('world')
+if True:
+    print("world")
+def rtyu():
+    print("fhgf")
+rtyu()
