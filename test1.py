@@ -2,6 +2,4 @@ print('hello')
 print('world')
 
 
-
-
-print('world')
+print('test git add -i')
