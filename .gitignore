@@ -1,4 +1,5 @@
 .vscode
 INFO.md
 testvenv
+__pycache__
 
