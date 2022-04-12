@@ -1,3 +1,6 @@
+import cowsay
+
+
 def greet(two):
     print(f"Hello, {two}")
 
@@ -14,3 +17,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    cowsay.trex('Hello, Nikon')
